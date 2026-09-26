@@ -1,0 +1,23 @@
+{
+  "headline": "msx",
+  "menu": [
+    {
+      "label": "📺 POLSKA TV",
+      "action": "content:https://msx.benzac.de/services/m3u.php?headline=POLSKA%20TV&type=video&mode=0&url=https%3A%2F%2Fiptv-org.github.io%2Fiptv%2Fcountries%2Fpl.m3u"
+    },
+    {
+      "label": "🎬 FILMY",
+      "action": "message:Filmy zostaną dodane po podłączeniu legalnego źródła VOD."
+    },
+    {
+      "label": "📺 SERIALE",
+      "action": "message:Seriale zostaną dodane po podłączeniu legalnego źródła VOD."
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "settings"
+    }
+  ]
+}
